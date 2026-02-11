@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スーパー・フリーク",
+  "base_artist": "Rick James",
+  "createdAt": "2026-02-11T13:04:14.621379Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Freak",
+      "artist": "Rick James",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Freak_Rick_James.txt"
+    }
+  ]
+}
